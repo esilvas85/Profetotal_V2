@@ -1,0 +1,447 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56930174052@s.whatsapp.net',
+    fromMe: false,
+    id: '45717A0BC2A60239055259972F66D2AA',
+    participant: undefined
+  },
+  messageTimestamp: 1721755776,
+  pushName: 'jj',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Te amo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'jj',
+  body: 'Te amo',
+  from: '56930174052'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3fa75e4c-fee5-4f1c-863b-7f083defe551',
+  keyword: 'key_1cd1714e-cbfd-4a07-9a6a-f4eddd50ed9f',
+  answer: '📄 Nuestros valores para clase de matemáticas son:\n' +
+    '*Educacion Basica y Media*: $10.000\n' +
+    '*Educacion Superior*: $15.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '409bdb712dff2b869e04dc03ec8ade07'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d4f89a52-55a0-49cc-9237-0fd5cf14dfd7',
+  keyword: 'ans_3fa75e4c-fee5-4f1c-863b-7f083defe551',
+  answer: '👉 *ingresa 2* para revisar la disponibilidad de las clases\n' +
+    '👉 *ingresa 3* para agendar una clase\n' +
+    '👉 *ingresa 4* para solicitar hablar con una persona\n' +
+    '👉 *ingresa 5* para volver al menu anterior',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7ab53a8089e3e8cc444844e3405f8395'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56930174052@s.whatsapp.net',
+    fromMe: false,
+    id: 'F49EAEF610DCA9C23964354EB7D541C7',
+    participant: undefined
+  },
+  messageTimestamp: 1721755806,
+  pushName: 'jj',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '56930174052'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28a00ab7-fe8e-41ab-82b6-d8ac14ab3a26',
+  keyword: 'key_5f145532-59d4-4936-8021-82a05ebc959d',
+  answer: '📄 Ingrese al siguiente link para ver los horarios disponibles.\n' +
+    'https://book.plandok.com/es/agenda-clasesmatepro',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4908d61d0e235777d296e9856670d652'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cdeae416-68b8-4c63-b98c-cc9a3fd3e17e',
+  keyword: 'ans_28a00ab7-fe8e-41ab-82b6-d8ac14ab3a26',
+  answer: '👉 *ingresa 1* para consultar los precios de las clases\n' +
+    '👉 *ingresa 3* para agendar una clase\n' +
+    '👉 *ingresa 4* para solicitar hablar con una persona\n' +
+    '👉 *ingresa 5* para volver al menu anterior',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cc0d3a8d9b2025d8d0446fb0d2e8f4b1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56930174052@s.whatsapp.net',
+    fromMe: false,
+    id: 'DB296F7188182E97D91671F739988A17',
+    participant: undefined
+  },
+  messageTimestamp: 1721755814,
+  pushName: 'jj',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '56930174052'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3fa75e4c-fee5-4f1c-863b-7f083defe551',
+  keyword: 'key_1cd1714e-cbfd-4a07-9a6a-f4eddd50ed9f',
+  answer: '📄 Nuestros valores para clase de matemáticas son:\n' +
+    '*Educacion Basica y Media*: $10.000\n' +
+    '*Educacion Superior*: $15.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '409bdb712dff2b869e04dc03ec8ade07'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d4f89a52-55a0-49cc-9237-0fd5cf14dfd7',
+  keyword: 'ans_3fa75e4c-fee5-4f1c-863b-7f083defe551',
+  answer: '👉 *ingresa 2* para revisar la disponibilidad de las clases\n' +
+    '👉 *ingresa 3* para agendar una clase\n' +
+    '👉 *ingresa 4* para solicitar hablar con una persona\n' +
+    '👉 *ingresa 5* para volver al menu anterior',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7ab53a8089e3e8cc444844e3405f8395'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56930174052@s.whatsapp.net',
+    fromMe: false,
+    id: '23C2092793434D13EB5D59B89ED6782F',
+    participant: undefined
+  },
+  messageTimestamp: 1721755824,
+  pushName: 'jj',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '56930174052'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d89d82a-aeff-4667-9b35-ace093feca84',
+  keyword: 'key_89d77807-8efa-440a-8537-b9979f32da8d',
+  answer: '👉 *ingresa 1* para consultar los precios de las clases\n' +
+    '👉 *ingresa 2* para revisar la disponibilidad de las clases\n' +
+    '👉 *ingresa 3* para agendar una clase\n' +
+    '👉 *ingresa 4* para solicitar hablar con una persona',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '01152663b2527ee3fe46d98415c33f25'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56930174052@s.whatsapp.net',
+    fromMe: false,
+    id: 'E7FCFCB9697A2DFBAD4BEE3358433CE3',
+    participant: undefined
+  },
+  messageTimestamp: 1721755830,
+  pushName: 'jj',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '56930174052'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a703752-2cbe-4956-8664-c8f07caa6a66',
+  keyword: 'key_2a9e7a16-6a82-460f-8da6-ace14daa0131',
+  answer: '📄 Para hablar con una persona por favor tenga paciencia, lo atenderemos lo antes posible ;)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ffa242aef163e31907450b53860d8597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56930174052@s.whatsapp.net',
+    fromMe: false,
+    id: 'C8B06A3E1FDD4777206F6C31C6058F0C',
+    participant: undefined
+  },
+  messageTimestamp: 1721755841,
+  pushName: 'jj',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56930174052'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af3a045c-df77-4502-8023-4c68b635c260',
+  keyword: 'key_8d09436d-3ebd-4417-883a-27e336373cea',
+  answer: '🙌 !Hola¡ bienvenido a MatePRO, soy un bot, por favor ingresa la opción que quieras consultar',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eb556afb46a86f3ace39a5e157aab9b4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a36b4c6f-dc97-4a03-ba40-c3d61db7b54b',
+  keyword: 'ans_af3a045c-df77-4502-8023-4c68b635c260',
+  answer: '👉 *ingresa 1* para consultar los precios de las clases\n' +
+    '👉 *ingresa 2* para revisar nuestros horarios disponibles\n' +
+    '👉 *ingresa 3* para agendar una clase\n' +
+    '👉 *ingresa 4* para solicitar hablar con una persona',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e7a27a59a08162cdf7382ad8d3231a1f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56930174052@s.whatsapp.net',
+    fromMe: false,
+    id: '69290A18024FCBA3DC6991B137419E3F',
+    participant: undefined
+  },
+  messageTimestamp: 1721755906,
+  pushName: 'jj',
+  broadcast: false,
+  message: Message {
+    conversation: 'Otr',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Otr',
+  from: '56930174052'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3fa75e4c-fee5-4f1c-863b-7f083defe551',
+  keyword: 'key_1cd1714e-cbfd-4a07-9a6a-f4eddd50ed9f',
+  answer: '📄 Nuestros valores para clase de matemáticas son:\n' +
+    '*Educacion Basica y Media*: $10.000\n' +
+    '*Educacion Superior*: $15.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '409bdb712dff2b869e04dc03ec8ade07'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d4f89a52-55a0-49cc-9237-0fd5cf14dfd7',
+  keyword: 'ans_3fa75e4c-fee5-4f1c-863b-7f083defe551',
+  answer: '👉 *ingresa 2* para revisar la disponibilidad de las clases\n' +
+    '👉 *ingresa 3* para agendar una clase\n' +
+    '👉 *ingresa 4* para solicitar hablar con una persona\n' +
+    '👉 *ingresa 5* para volver al menu anterior',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7ab53a8089e3e8cc444844e3405f8395'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56930174052@s.whatsapp.net',
+    fromMe: false,
+    id: 'B1C77E9F27BF0D4B0C90CF9E1EEEFA69',
+    participant: undefined
+  },
+  messageTimestamp: 1721755932,
+  pushName: 'jj',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '56930174052'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28a00ab7-fe8e-41ab-82b6-d8ac14ab3a26',
+  keyword: 'key_5f145532-59d4-4936-8021-82a05ebc959d',
+  answer: '📄 Ingrese al siguiente link para ver los horarios disponibles.\n' +
+    'https://book.plandok.com/es/agenda-clasesmatepro',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4908d61d0e235777d296e9856670d652'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cdeae416-68b8-4c63-b98c-cc9a3fd3e17e',
+  keyword: 'ans_28a00ab7-fe8e-41ab-82b6-d8ac14ab3a26',
+  answer: '👉 *ingresa 1* para consultar los precios de las clases\n' +
+    '👉 *ingresa 3* para agendar una clase\n' +
+    '👉 *ingresa 4* para solicitar hablar con una persona\n' +
+    '👉 *ingresa 5* para volver al menu anterior',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cc0d3a8d9b2025d8d0446fb0d2e8f4b1'
+}
